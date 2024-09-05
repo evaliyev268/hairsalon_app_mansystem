@@ -1,0 +1,10 @@
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\bin\Debug\Hairsalon_app_managsystem.exe.config
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\bin\Debug\Hairsalon_app_managsystem.exe
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\bin\Debug\Hairsalon_app_managsystem.pdb
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\obj\Debug\Hairsalon_app_managsystem.csproj.AssemblyReference.cache
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\obj\Debug\Hairsalon_app_managsystem.Home.resources
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\obj\Debug\Hairsalon_app_managsystem.Properties.Resources.resources
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\obj\Debug\Hairsalon_app_managsystem.csproj.GenerateResource.cache
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\obj\Debug\Hairsalon_app_managsystem.csproj.CoreCompileInputs.cache
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\obj\Debug\Hairsalon_app_managsystem.exe
+C:\Users\evali\Downloads\Github\Repo-Hairsalon_app_managsystem\hairsalon_app_mansystem\Hairsalon_app_managsystem\obj\Debug\Hairsalon_app_managsystem.pdb
